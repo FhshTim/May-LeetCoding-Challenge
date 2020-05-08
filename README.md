@@ -6,6 +6,8 @@
 [May LeetCoding Challenge - 5 First Unique Character in a String](https://medium.com/@xyrot94/may-leetcoding-challenge-5-ef7f1cf33588)  
 [May LeetCoding Challenge - 6 Majority Element](https://medium.com/@xyrot94/may-leetcoding-challenge-6-cb7c4cad1019)  
 [May LeetCoding Challenge - 7 Cousins in Binary Tree](https://medium.com/@xyrot94/may-leetcoding-challenge-7-415d56df159f)  
+[May LeetCoding Challenge - 8 Check If It Is a Straight Line](https://medium.com/@xyrot94/may-leetcoding-challenge-8-17d192d5f42d)  
+
 
 
 
