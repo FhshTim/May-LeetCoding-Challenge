@@ -10,6 +10,8 @@
 [May LeetCoding Challenge - 9 Valid Perfect Square](https://medium.com/@xyrot94/may-leetcoding-challenge-9-288aa20c2a41)  
 [May LeetCoding Challenge - 10 Find the Town Judge](https://medium.com/@xyrot94/may-leetcoding-challenge-10-43abef34619f)  
 [May LeetCoding Challenge - 11 Flood Fill](https://medium.com/@xyrot94/may-leetcoding-challenge-11-114cc0c7fc51)  
+[May LeetCoding Challenge - 12 Single Element in a Sorted Array](https://medium.com/@xyrot94/may-leetcoding-challenge-12-a3d15b47ab58)  
+
 
 
 
