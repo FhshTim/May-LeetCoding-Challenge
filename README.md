@@ -11,6 +11,8 @@
 [May LeetCoding Challenge - 10 Find the Town Judge](https://medium.com/@xyrot94/may-leetcoding-challenge-10-43abef34619f)  
 [May LeetCoding Challenge - 11 Flood Fill](https://medium.com/@xyrot94/may-leetcoding-challenge-11-114cc0c7fc51)  
 [May LeetCoding Challenge - 12 Single Element in a Sorted Array](https://medium.com/@xyrot94/may-leetcoding-challenge-12-a3d15b47ab58)  
+[May LeetCoding Challenge - 13 Remove K Digits](https://medium.com/@xyrot94/may-leetcoding-challenge-13-36e9efefdeac)  
+
 
 
 
