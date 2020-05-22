@@ -20,6 +20,8 @@
 [May LeetCoding Challenge - 19 Online Stock Span](https://medium.com/@xyrot94/may-leetcoding-challenge-19-b6cb9662e90a)  
 [May LeetCoding Challenge - 20 Kth Smallest Element in a BST](https://medium.com/@xyrot94/may-leetcoding-challenge-20-d71d92164549)  
 [May LeetCoding Challenge - 21 Count Square Submatrices wiht All Ones](https://medium.com/@xyrot94/may-leetcoding-challenge-21-7372e4a14815)  
+[May LeetCoding Challenge - 22 Sort Characters By Frequency](https://medium.com/@xyrot94/may-leetcoding-challenge-22-164209399c4c)  
+
 
 
 
