@@ -22,6 +22,8 @@
 [May LeetCoding Challenge - 21 Count Square Submatrices wiht All Ones](https://medium.com/@xyrot94/may-leetcoding-challenge-21-7372e4a14815)  
 [May LeetCoding Challenge - 22 Sort Characters By Frequency](https://medium.com/@xyrot94/may-leetcoding-challenge-22-164209399c4c)  
 [May LeetCoding Challenge - 23 Interval List Intersections](https://medium.com/@xyrot94/may-leetcoding-challenge-23-dbb816c307ed)  
+[May LeetCoding Challenge - 24 Construct Binary Tree from Preorder Traversal](https://medium.com/@xyrot94/may-leetcoding-challenge-24-cd8e95bebbe2)  
+
 
 
 
