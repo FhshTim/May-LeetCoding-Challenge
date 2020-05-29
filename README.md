@@ -27,6 +27,8 @@
 [May LeetCoding Challenge - 26 Contiguous Array](https://medium.com/@xyrot94/may-leetcoding-challenge-26-becdf0f6592f)  
 [May LeetCoding Challenge - 27 Possible Bipartition](https://medium.com/@xyrot94/may-leetcoding-challenge-27-72e76be22be8)  
 [May LeetCoding Challenge - 28 Counting Bits](https://medium.com/@xyrot94/may-leetcoding-challenge-28-18327aa643b6)  
+[May LeetCoding Challenge - 29 Course Schedule](https://medium.com/@xyrot94/may-leetcoding-challenge-29-8f2f15363cc8)  
+
 
 
 
