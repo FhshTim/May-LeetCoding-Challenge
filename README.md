@@ -28,6 +28,7 @@
 [May LeetCoding Challenge - 27 Possible Bipartition](https://medium.com/@xyrot94/may-leetcoding-challenge-27-72e76be22be8)  
 [May LeetCoding Challenge - 28 Counting Bits](https://medium.com/@xyrot94/may-leetcoding-challenge-28-18327aa643b6)  
 [May LeetCoding Challenge - 29 Course Schedule](https://medium.com/@xyrot94/may-leetcoding-challenge-29-8f2f15363cc8)  
+[May LeetCoding Challenge - 30 K Closest Points to Origin](https://medium.com/@xyrot94/may-leetcoding-challenge-30-d85122fdce9d)  
 
 
 
